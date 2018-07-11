@@ -1,10 +1,8 @@
-# [locator_service](https://www.transecur.com)
+# [locator_service](https://github.com/SunnyRichards/locator_service)
 
 ## Contacts
 
-Author - Sunny Richards  ([sunny@lynkit.in](mailto:sunny@lynkit.in))
-
-Website - [https://www.transecur.com](https://www.transecur.com)
+Author - Sunny Richards  ([sunny.s@redbus.com](mailto:sunny.s@redbus.com))
 
 ## Overview
 
